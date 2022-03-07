@@ -44,3 +44,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+
+.env.local
+# firebase
+REACT_APP_API_KEY="AIzaSyANNQ4mq3LCqsxPhDioEyoL5RSDV-kGu-s"
+REACT_APP_AUTH_DOMAIN="letmeask-mck.firebaseapp.com"
+REACT_APP_DATABASE_URL="https://letmeask-mck-default-rtdb.firebaseio.com"
+REACT_APP_PROJECT_ID="letmeask-mck"
+REACT_APP_STORAGE_BACKET="letmeask-mck.appspot.com"
+REACT_APP_MASSAGIN_SEDER_ID="947921954209"
+REACT_APP_APP_ID="1:947921954209:web:daa7936a77fac2086e57e0"
