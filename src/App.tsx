@@ -11,9 +11,7 @@ function App() {
       <Button />
       <Button />
       <Button />
-      <Button />
-      <Button />
-    </div>
+      </div>
    
   );
 }
