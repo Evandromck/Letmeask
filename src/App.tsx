@@ -12,10 +12,7 @@ function App() {
       <Button />
       <Button />
       <Button />
-<<<<<<< HEAD
       <Button />
-=======
->>>>>>> c4933bcd5ec36658fd211596b77f2b54c115f4b3
     </div>
    
   );
